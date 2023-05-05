@@ -1,6 +1,6 @@
 # Demo - Rest Spring
 
-É um projeto para demonstração de uma API REST com Spring Boo  t. 
+É um projeto para demonstração de uma API REST com Spring Boo  t RELEASE. 
 
 ## Principais Funcionalidades
 
