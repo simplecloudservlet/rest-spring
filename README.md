@@ -1,6 +1,6 @@
 # Demo - Rest Spring
 
-É um projeto para demonstração de uma API REST com Spring Boo  t RELEASE hotfix. 
+É um projeto para demonstração de uma API REST com Spring Boot RELEASE release. 
 
 ## Principais Funcionalidades
 
